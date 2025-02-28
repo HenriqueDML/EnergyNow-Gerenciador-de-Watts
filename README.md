@@ -1,8 +1,8 @@
-# EnergyNow-Gerenciador-de-Watts
+# Projeto - Chat Car
  
 # ChatCar - Sistema de Diagnósticos Automotivos!
 
-![Logo do Projeto](src/app/img/vetor.png)
+![Logo do Projeto](https://media.licdn.com/dms/image/v2/D562DAQHXMZz_l3RksQ/profile-treasury-image-shrink_800_800/B56ZUT4z2yGsAY-/0/1739795414890?e=174137)
 
 ## Descritivo
 
